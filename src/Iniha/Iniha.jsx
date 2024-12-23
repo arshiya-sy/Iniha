@@ -14,12 +14,6 @@ class Iniha extends Component {
           </nav>
         </header>
 
-        {/* <section className="hero">
-          <h1>Welcome to Bhandary Iniha Business Centre</h1>
-          <p>Where business meets convenience and modernity.</p>
-          <button>Enquire Now</button>
-        </section> */}
-
         <section className="investment-section">
           <div className="investment-container">
             {/* Left Side: Investment Statistics */}
